@@ -15,6 +15,7 @@
     "@mean-expert/loopback-component-realtime": "^1.0.0-rc.2",
     "@mean-expert/loopback-stats-mixin": "^1.2.0",
     "@mean-expert/model": "^1.0.9",
+    "@types/node": "^9.3.0",
     "chai": "^3.5.0",
     "compression": "^1.0.3",
     "cookie-parser": "^1.4.3",
@@ -28,7 +29,8 @@
     "mocha": "^3.2.0",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^1.0.1",
-    "supertest": "^2.0.1"
+    "supertest": "^2.0.1",
+    "ts-node": "^4.1.0"
   },
   "devDependencies": {
     "@mean-expert/loopback-sdk-builder": "^2.1.0-rc.7",

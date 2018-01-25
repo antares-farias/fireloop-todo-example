@@ -21,6 +21,7 @@
   "acls": [],
   "methods": {},
   "mixins": {
+    "FireLoop": true,
     "TimeStamp": {
       "required": false
     },
